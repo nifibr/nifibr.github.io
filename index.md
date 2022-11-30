@@ -4,4 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-Apache NiFi BR
+<img src="/assets/logo.png" alt="Apache NiFi Brasil" width="200"/>
+
+**Apache NiFi BR**

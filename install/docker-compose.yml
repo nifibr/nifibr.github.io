@@ -1,0 +1,13 @@
+version: '3.3'
+services:
+  nifi:
+    container_name: default-nifi
+    image: apache/nifi:latest
+    user: root
+    hostname: default-nifi
+    ports:
+      - 8080:8080 
+    environment:
+      - NIFI_WEB_HTTP_PORT=8080
+      - NIFI_JVM_HEAP_INIT=1g
+      - NIFI_JVM_HEAP_MAX=2g
