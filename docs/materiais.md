@@ -26,5 +26,10 @@ nav_order: 2
 
 [SlideShare](https://www.slideshare.net/elizarp3/unaerp-0411-digerindo-dados-com-apache-nifi)
 
-
 [![Minicurso NiFi - 1h 56min](https://img.youtube.com/vi/RHnGinL2TEc/0.jpg)](https://www.youtube.com/watch?v=RHnGinL2TEc)
+
+## Blog Nifi Notes
+
+**Autor:** Mark Payne
+
+<a href="https://medium.com/@nifi.notes/" target="_blank">NiFi Notes - Mark Payne</a>
