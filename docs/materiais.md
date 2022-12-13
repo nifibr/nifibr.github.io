@@ -34,7 +34,7 @@ nav_order: 2
 
 [GitHub](https://github.com/deniswoliveira/meetup-eng-dados-apache-nifi)
 
-[![Criando um dataflow com Apache NiFi - 1h 45min](https://i.ytimg.com/vi/l1fK7cA-VOo/maxresdefault.jpg)](https://www.youtube.com/watch?v=l1fK7cA-VOo&t=6s)
+[![Criando um dataflow com Apache NiFi - 1h 45min](https://img.youtube.com/vi/l1fK7cA-VOo/0.jpg)](https://www.youtube.com/watch?v=l1fK7cA-VOo&t=6s)
 
 ## Supletivo DH - Apache NiFi
 
